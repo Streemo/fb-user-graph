@@ -17,5 +17,5 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-  querystring: "0.20.0"
+  querystring: "0.2.0"
 })
